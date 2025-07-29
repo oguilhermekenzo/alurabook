@@ -1,4 +1,4 @@
-![AluraBook Banner](./assets/Logo.svg) # AluraBook
+![AluraBook Banner](./assets/Logo.svg) ## AluraBook
 
 ## 🔗 Link do projeto
 
